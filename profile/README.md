@@ -1,5 +1,11 @@
 # Intro to managing the website
 
+You first need to be logged in to the OFLS GitHub account. Any changes need to be "commited", by following the instructions on the GitHub page. This is for version management, as is akin to signing an amended contract in contract law. Once an edit is made, it takes about 5 minutes for them to show up.
+
+Sometimes, the building of the website fails, in which case you see an ❌ smybol instead of a ✅, similar to the ✅ in this picture:
+
+![img](https://user-images.githubusercontent.com/1313613/219967505-fcab12af-3fda-4473-ad8d-fa78c7e12702.png)
+
 ## Website
 
 Update team here: https://github.com/OxfordFLS/oxfordfls.github.io/blob/main/team.html
