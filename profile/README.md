@@ -38,7 +38,7 @@ Different colours for hovering over the people are possible: marketing,legaltech
 
 Add new posts in the folder: https://github.com/OxfordFLS/blog/tree/master/_posts
 
--   Need to start the filename with the current date (yyyy-mm-dd) and end with “.md”.
+-   Need to start the filename with the current date (yyyy-mm-dd-) and end with “.md”.
 
 -   Files must be in Markdown format (can be easily created with Markdown editors like “Typora” – or also just a regular text editor) and start with the same “YAML” header with additional information on the file contents.
 
@@ -61,7 +61,6 @@ image: assets/images/AI-in-SA-legal-space.jpeg
     avatar: 'assets/images/dom.jpg'
     linkedin: in/domenico-piers-de-martino-753410148/
     description: "Domenico is a former President of the Oxford Fintech and Legaltech Society, and is an alumnus of the Masters in Law and Finance (2019)"
-  d
  ```
 
 The name in the blog article has to match the top-level entry in the “.yml” file exactly (e.g. “dom” – and not “Domenico) so as to establish a correspondence with the right author.
